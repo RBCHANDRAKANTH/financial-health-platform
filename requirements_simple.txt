@@ -1,0 +1,8 @@
+flask==2.3.3
+pandas==2.1.1
+numpy==1.24.3
+cryptography==41.0.4
+openpyxl==3.1.2
+PyPDF2==3.0.1
+plotly==5.16.1
+werkzeug==2.3.7
